@@ -1,0 +1,194 @@
+[
+  {
+    "path": "d:\\Proiect_Concurs\\photos\\photo_20250403_215712.jpg",
+    "location": "Galati",
+    "latitude": 45.4452,
+    "longitude": 28.0282,
+    "description": "The husband waits wife for romantic dinner in Galati, Romania. The photo was taken in the evening, with a beautiful sunset in the background. The husband is wearing a black suit and the wife is wearing a red dress. They are sitting at a table with candles and flowers.",
+    "date_added": "20250403_215712"
+  },
+  {
+    "path": "d:\\Proiect_Concurs\\photos\\photo_20250404_021550.jpg",
+    "location": "Black Street's gate in Brașov (Brasov)",
+    "latitude": 45.64360046386719,
+    "longitude": 25.59709930419922,
+    "description": "hora mare",
+    "date_added": "20250404_021550"
+  },
+  {
+    "path": "d:\\Proiect_Concurs\\photos\\photo_20250404_022351.jpg",
+    "location": "Templul Coral (Bucharest)",
+    "latitude": 44.43100738525391,
+    "longitude": 26.106624603271484,
+    "description": "",
+    "date_added": "20250404_022351"
+  },
+  {
+    "path": "d:\\Proiect_Concurs\\photos\\photo_20250404_044433.jpg",
+    "location": "statuia eminescu (Galati)",
+    "latitude": 26.104576110839844,
+    "longitude": 44.432498931884766,
+    "description": "ceva",
+    "date_added": "20250404_044433",
+    "predicted_rating": 0.5088357674612326,
+    "features": {
+      "durata_minima": 1,
+      "Cald": 0,
+      "Oricand": 1,
+      "Rece": 0,
+      "Circuit": 0,
+      "CityBreak": 0,
+      "Relaxare": 1,
+      "Gratuit": 0,
+      "Mediu": 0,
+      "Mic": 1
+    }
+  },
+  {
+    "path": "d:\\Proiect_Concurs\\photos\\photo_20250404_045152.jpg",
+    "location": "Calea Moșilor 84 house (Bucharest)",
+    "latitude": 44.432891845703125,
+    "longitude": 26.106599807739254,
+    "description": "frumos :)",
+    "date_added": "20250404_045152",
+    "predicted_rating": 0.4990835949527395,
+    "features": {
+      "durata_minima": 2,
+      "Cald": 0,
+      "Oricand": 1,
+      "Rece": 0,
+      "Circuit": 1,
+      "CityBreak": 0,
+      "Relaxare": 0,
+      "Gratuit": 0,
+      "Mediu": 1,
+      "Mic": 0
+    }
+  },
+  {
+    "path": "d:\\Proiect_Concurs\\photos\\photo_20250404_045441.jpg",
+    "location": "Templul Coral (Bucharest)",
+    "latitude": 44.43100738525391,
+    "longitude": 26.106624603271484,
+    "description": "",
+    "date_added": "20250404_045441",
+    "predicted_rating": 1.0,
+    "features": {
+      "durata_minima": 1,
+      "Cald": 0,
+      "Oricand": 1,
+      "Rece": 0,
+      "Circuit": 0,
+      "CityBreak": 1,
+      "Relaxare": 0,
+      "Gratuit": 0,
+      "Mediu": 1,
+      "Mic": 0
+    }
+  },
+  {
+    "path": "d:\\Proiect_Concurs\\photos\\photo_20250404_051114.jpeg",
+    "location": "Castelul Pales (Sinaia)",
+    "latitude": 44.3167,
+    "longitude": 25.4167,
+    "description": "",
+    "date_added": "20250404_051114",
+    "predicted_rating": 3.0,
+    "features": {
+      "durata_minima": 2,
+      "Cald": 0,
+      "Oricand": 1,
+      "Rece": 0,
+      "Circuit": 1,
+      "CityBreak": 0,
+      "Relaxare": 0,
+      "Gratuit": 0,
+      "Mediu": 1,
+      "Mic": 0
+    }
+  },
+  {
+    "path": "d:\\Proiect_Concurs\\photos\\photo_20250404_052701.jpg",
+    "location": "Statue of Constantin Brâncoveanu in Bucharest (Bucharest)",
+    "latitude": 44.43235778808594,
+    "longitude": 26.10422134399414,
+    "description": "",
+    "date_added": "20250404_052701",
+    "predicted_rating": 2.1523809523809523,
+    "features": {
+      "durata_minima": 1,
+      "Cald": 1,
+      "Oricand": 0,
+      "Rece": 0,
+      "Circuit": 1,
+      "CityBreak": 0,
+      "Relaxare": 0,
+      "Gratuit": 1,
+      "Mediu": 0,
+      "Mic": 0
+    }
+  },
+  {
+    "path": "d:\\Proiect_Concurs\\photos\\photo_20250404_053849.jpeg",
+    "location": "shopping (galati )",
+    "latitude": 45.425,
+    "longitude": 28.0225,
+    "description": "",
+    "date_added": "20250404_053849",
+    "predicted_rating": 2.3523809523809525,
+    "features": {
+      "durata_minima": 1,
+      "Cald": 0,
+      "Oricand": 1,
+      "Rece": 0,
+      "Circuit": 0,
+      "CityBreak": 0,
+      "Relaxare": 1,
+      "Gratuit": 0,
+      "Mediu": 1,
+      "Mic": 1
+    }
+  },
+  {
+    "path": "d:\\Proiect_Concurs\\photos\\photo_20250404_054336.jpg",
+    "location": "Holocaust Museum (Bucharest)",
+    "latitude": 44.42956161499024,
+    "longitude": 26.108407974243164,
+    "description": "",
+    "date_added": "20250404_054336",
+    "predicted_rating": 2.118095238095238,
+    "features": {
+      "durata_minima": 2,
+      "Cald": 0,
+      "Oricand": 1,
+      "Rece": 0,
+      "Circuit": 0,
+      "CityBreak": 1,
+      "Relaxare": 0,
+      "Gratuit": 0,
+      "Mediu": 1,
+      "Mic": 0
+    }
+  },
+  {
+    "path": "d:\\Proiect_Concurs\\photos\\photo_20250404_094507.jpg",
+    "location": "Delta Dunarii (Tulcea)",
+    "latitude": 45.1619,
+    "longitude": 29.2626,
+    "description": "",
+    "date_added": "20250404_094507",
+    "predicted_rating": 2.163809523809524,
+    "features": {
+      "durata_minima": 3,
+      "Cald": 1,
+      "Oricand": 0,
+      "Rece": 0,
+      "Circuit": 0,
+      "CityBreak": 0,
+      "Relaxare": 1,
+      "Gratuit": 0,
+      "Mediu": 1,
+      "Mic": 0
+    }
+  }
+]
