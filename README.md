@@ -63,3 +63,22 @@ python app.py
    - Top 5 locații recomandate
    - Hartă interactivă cu traseu
    - Distanțe între obiective
+## Capturi de Ecran
+
+### Exemplu 1
+![Screenshot 2025-04-04 022406](img/Screenshot%202025-04-04%20022406.png)
+
+### Exemplu 2
+![Screenshot 2025-04-04 024152](img/Screenshot%202025-04-04%20024152.png)
+
+### Exemplu 3
+![Screenshot 2025-04-04 024207](img/Screenshot%202025-04-04%20024207.png)
+
+### Exemplu 4
+![Screenshot 2025-04-04 024353](img/Screenshot%202025-04-04%20024353.png)
+
+### Exemplu 5
+![Screenshot 2025-04-04 101025](img/Screenshot%202025-04-04%20101025.png)
+
+### Exemplu 6
+![Screenshot 2025-04-04 102622](img/Screenshot%202025-04-04%20102622.png)
