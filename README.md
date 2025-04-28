@@ -78,3 +78,9 @@ python app.py
 
 ### Exemplu 4
 ![Screenshot 2025-04-28 120103](img/Screenshot%202025-04-28%20120103.png)
+
+### Exemplu 5
+![Screenshot 2025-04-04 101109](img/Screenshot%202025-04-04%20101109.png)
+
+### Exemplu 6
+![Screenshot 2025-04-04 102622](img/Screenshot%202025-04-04%20102622.png)
