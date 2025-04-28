@@ -65,6 +65,8 @@ python app.py
    - Distanțe între obiective
 ## Capturi de Ecran
 
+## Capturi de Ecran
+
 ### Exemplu 1
 ![Screenshot 2025-04-04 022406](img/Screenshot%202025-04-04%20022406.png)
 
